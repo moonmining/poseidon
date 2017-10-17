@@ -1204,7 +1204,7 @@
 			margin-top: 3.5rem;
 		}
 
-			#header > *:before {
+			/*#header > *:before {
 				content: '';
 				display: block;
 				position: absolute;
@@ -1212,7 +1212,7 @@
 				left: calc(50% - 1px);
 				width: 1px;
 				height: calc(3.5rem + 1px);
-				background: #ffffff;
+				background: #ffffff; */
 			}
 
 		#header > :first-child {
@@ -1223,12 +1223,12 @@
 				display: none;
 			}
 
-		#header .logo {
+		/*#header .logo {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
-			border-radius: 100%;
+			border-radius: 100%;*/
 		}
 
 			#header .logo .icon:before {
